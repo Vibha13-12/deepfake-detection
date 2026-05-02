@@ -1,0 +1,6 @@
+__pycache__/
+*.h5
+Dataset/
+Dataset copy/
+*.mp4
+*.zip
