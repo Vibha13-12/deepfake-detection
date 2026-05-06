@@ -125,7 +125,8 @@ in your browser.
 
 # 📸 Screenshots
 
-(Add your project screenshots here)
+<img width="1280" height="832" alt="Screenshot 2026-05-05 at 5 03 45 PM" src="https://github.com/user-attachments/assets/ccc0cbf3-14af-4fcc-b658-e99b816f0022" />
+
 
 Example:
 
