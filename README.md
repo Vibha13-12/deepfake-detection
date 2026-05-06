@@ -125,10 +125,17 @@ in your browser.
 
 # 📸 Screenshots
 
+```markdown
+![Home Page](screenshots/home.png)
+```
+
 <img width="1280" height="832" alt="Screenshot 2026-05-05 at 5 03 45 PM" src="https://github.com/user-attachments/assets/ccc0cbf3-14af-4fcc-b658-e99b816f0022" />
 
+<img width="1280" height="832" alt="Screenshot 2026-05-05 at 5 04 01 PM" src="https://github.com/user-attachments/assets/c94f177b-e522-42f7-a0ef-50446f188b5a" />
 
-Example:
+<img width="1280" height="832" alt="Screenshot 2026-05-05 at 5 04 04 PM" src="https://github.com/user-attachments/assets/d11099d6-ec7a-4d4e-b21d-ba1354110be2" />
+
+
 
 ```markdown
 ![Home Page](screenshots/home.png)
